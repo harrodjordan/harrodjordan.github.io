@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
+**For a more detailed CV, please download the PDF [here](insert link)**
+
 ## EDUCATION 
 
 **Harvard-MIT Health Sciences and Technology, Cambridge, MA**
