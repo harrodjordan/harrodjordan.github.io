@@ -4,12 +4,27 @@ title: CV
 permalink: /CV/
 ---
 
-Thanks for visitng my website! 
+## EDUCATION 
 
-### More Information
+**Harvard-MIT Health Sciences and Technology, Cambridge, MA**
+Incoming Ph.D. Student in Medical Engineering and Medical Physics 
+Concentration in Electrical Engineering 
 
-Want to chat? Email me below!
+*GEM Associate Fellow*
+*Sigma Xi Society, Associate Member*
 
-### Contact me
 
-[JORDAN.B.HARROD@GMAIL.COM](mailto:jordan.b.harrod@gmail.com)
+**Cornell University, College of Engineering, Ithaca, NY**
+B.S. in Biomedical Engineering (Inagural Graduating Class, Expected: May 2018) 
+Concentration in Bioinstrumentation and Imaging (EECS) 
+
+*Sigma Xi Society, Associate Member*
+
+## RESEARCH 
+
+
+
+## PUBLICATIONS
+
+## AWARDS AND HONORS 
+
