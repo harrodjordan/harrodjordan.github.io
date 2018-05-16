@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Thanks for visitng my website! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Want to chat? Email me below!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[JORDAN.B.HARROD@GMAIL.COM](mailto:jordan.b.harrod@gmail.com)
