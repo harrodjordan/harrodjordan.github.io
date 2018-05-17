@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-**For a more detailed CV, please download the PDF [here](insert link)**
+**For a more detailed CV, please download the PDF [here](/images/Harrod_Jordan_CV_S2018.pdf)**
 
 ## EDUCATION 
 
