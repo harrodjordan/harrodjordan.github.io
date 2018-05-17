@@ -30,87 +30,136 @@ Concentration in Bioinstrumentation and Imaging (EECS)
 
 ## RESEARCH 
 
-Undergraduate Research Assistant, Laboratories of Dr. Lawrence Bonassar and Dr. Lara Estroff,
-Meinig School of Biomedical Engineering/Department of Materials Science and Engineering Cornell University, Ithaca, NY
+**Undergraduate Research Assistant, Laboratories of Dr. Lawrence Bonassar and Dr. Lara Estroff,**
+
+*Meinig School of Biomedical Engineering/Department of Materials Science and Engineering Cornell University, Ithaca, NY*
+
 May 2015 – Present
+
 I aim to characterize and replicate the meniscal entheses, which attach the meniscal body to bone.
+
 ● Created meniscal enthesis constructs using trabecular bone cores containing mineralization gradients and tested tensile strength of constructs to determine the ideal demineralization profile for enthesis.
+
 ● Created custom MATLAB scripts to analyze the demineralization profile of partially demineralized trabecular bone cores.
+
 ● Established a standardized demineralization procedure for trabecular bone cores to further improve the mechanical properties of meniscal enthesis constructs.
+
 ● Analyzed microCT scans of demineralized bone experimental samples qualitatively by creating 3D renderings in Avizo Fire.
+
 ● Implemented histological techniques to compare protein localization and collagen fiber alignment in meniscal enthesis constructs to the native enthesis.
 
-Amgen Scholar, Laboratory of Dr. Lei Xing, Department of Radiation Oncology Stanford University, Stanford, CA
-June 2017–August 2017
-I aim to develop a neural network that will identify artifacts in real-time MRI imaging.
-● Developed a recurrent convolutional neural network to automate artifact identification in real-time MRI.
-● Developed a deep convolutional neural network that automates aliasing artifact identification on MRI images. ● Developed Python algorithm to introduce aliasing motion artifacts in complex-valued MRI images.
+**Amgen Scholar, Laboratory of Dr. Lei Xing,**
 
-Biomarker Development Intern
-Clinical and Translational Imaging Group, Novartis Institute for Biomedical Research
-East Hanover, NJ
-Summer 2016
+*Department of Radiation Oncology Stanford University, Stanford, CA*
+
+June 2017–August 2017
+
+I aimed to develop a neural network that will identify artifacts in real-time MRI imaging.
+
+● Developed a recurrent convolutional neural network to automate artifact identification in real-time MRI.
+
+● Developed a deep convolutional neural network that automates aliasing artifact identification on MRI images. 
+
+● Developed Python algorithm to introduce aliasing motion artifacts in complex-valued MRI images.
+
+**Biomarker Development Intern, Clinical and Translational Imaging Group,**
+
+*Novartis Institute for Biomedical Research, East Hanover, NJ*
+
+May 2016 - August 2016
+
 At Novartis, I aimed to more efficiently process Proof-of-Concept data for several pre-clinical drug trials using MATLAB, Spotfire, and Microsoft Office to prove their efficacy.
+
 ● Generated Proof-of-Concept data for several concurrent preclinical studies for transition to the next stage in FDA
 approval.
+
 ● Analyzed optical coherence tomography images of intra-retinal fluids to determine drug efficacy on reduction of
 fluid volumes in a clinical trial.
+
 ● Validated novel software that aimed to better visualize intra-retinal fluids using three-dimensional reconstructions and user-delineated fluid selections.
+
 ● Evaluated clinical trial data to determine systemic and local effects of a new topical analgesic treatment using Spotfire and Microsoft Excel visualization and data analysis techniques.
 
-Research Assistant
-Biomaterials and Interface Tissue Engineering Lab, Department of Biomedical Engineering Columbia University, New York City, NY
-Summer 2014
+**Research Assistant, Biomaterials and Interface Tissue Engineering Lab,**
+
+*Department of Biomedical Engineering Columbia University, New York City, NY*
+
+March 2014 - July 2014
+
 At Columbia, I aimed to determine whether nanofiber polymer scaffolds intended for use in drug delivery could withstand the mechanical stresses experienced by the periodontal ligament.
+
 ● Mapped tensile properties of nanofiber scaffolds to validate them as a replacement for native periodontal
 ligamentous tissue.
+
 ● Electrospun polymer nanofiber scaffolds of different chemical compositions.
+
 ● Performed fluorescence assays on cell-seeded scaffolds to determine DNA content and cell viability.
+
 ● Performed mechanical testing to determine failure energies of polymer scaffolds and interpreted results using
 MATLAB and Microsoft Excel.
 
 ## PUBLICATIONS
 
-Jordan Harrod, Morteza Mardani, John Pauly, Lei Xing. “Deep Predictive Coding For Super Time-Resolved MR
+**Jordan Harrod**, Morteza Mardani, John Pauly, Lei Xing. “Deep Predictive Coding For Super Time-Resolved MR
 Imaging” (Abstract) Neural Information Processing Systems, 2017, December 9th, 2017
 
-Jordan Harrod, Morteza Mardani, Lei Xing. “Automated Artifact Identification in MR Images Using Deep Convolutional Networks” (Abstract) BMES Annual Meeting, 2017, October 11th, 2017
+**Jordan Harrod**, Morteza Mardani, Lei Xing. “Automated Artifact Identification in MR Images Using Deep Convolutional Networks” (Abstract) BMES Annual Meeting, 2017, October 11th, 2017
 
-Guillaume Normand, Eric H Souied, Bruno Lay, Ronan Danno, Rocio Blanco-Garavito, Perrinne Charrard, Jordan Harrod, Michael Maker, Sudeep Chandra, Georges Weissgerber. “Validation of 3D volumetry for a novel anti- angiogenic therapy of neovascular age-related macular degeneration” (Abstract), ARVO Annual Meeting 2017, May 8, 2017
+Guillaume Normand, Eric H Souied, Bruno Lay, Ronan Danno, Rocio Blanco-Garavito, Perrinne Charrard, **Jordan Harrod**, Michael Maker, Sudeep Chandra, Georges Weissgerber. “Validation of 3D volumetry for a novel anti- angiogenic therapy of neovascular age-related macular degeneration” (Abstract), ARVO Annual Meeting 2017, May 8, 2017
 
 ## PRESENTATIONS 
 
+**Jordan Harrod**, Morteza Mordani, Lei Xing. “Motion Artifact Detection for Real-Time MR Imaging” Stanford
+Summer Research Program Symposium. August 23, 2017
+
+Team TransFur (**Jordan Harrod**, Elizabeth Feeney, Morgan Feldman, Priya Balasubramanian) “TransFur – Top 10 Finalist Presentation” Animal Health Hackathon, January 29th, 2017
 
 ## TEACHING 
 
-Undergraduate Teaching Assistant
-BME 3310: Medical and Preclinical Imaging
+**Undergraduate Teaching Assistant**
+
+*BME 3310: Medical and Preclinical Imaging*
+
 Meinig School of Biomedical Engineering, Cornell University
+
 ● Advised students on imaging modalities and image analysis, and held office hours.
-Undergraduate Teaching Assistant
+
+**Undergraduate Teaching Assistant**
 
 BME 3030: Measurement and Instrumentation in Biomedical Engineering
-Meinig School of Biomedical Engineering, Cornell University
-● Designed and taught a lecture on advanced biomedical data manipulation.
-● Advised students on circuit design and experimental design during an instrumentation lab and held office hours.
- Chemistry Tutor
 
-CHEM 1007: Academic Support for CHEM 2070 Department of Chemistry, Cornell University
+Meinig School of Biomedical Engineering, Cornell University
+
+● Designed and taught a lecture on advanced biomedical data manipulation.
+
+● Advised students on circuit design and experimental design during an instrumentation lab and held office hours.
+
+ **Chemistry Tutor**
+
+*CHEM 1007: Academic Support for CHEM 2070*
+
+Department of Chemistry, Cornell University
+
 • Tutored underclassmen in introductory chemistry
 
 ## AWARDS AND HONORS 
 
-National Action Council for Minorities in Engineering (NACME) Scholarship May 2017
+**National Action Council for Minorities in Engineering (NACME) Scholarship** May 2017
+
 National Action Council for Minorities in Engineering, Cornell University Diversity Programs in Engineering
  
- Undergraduate Excellence in Service Award
+**Undergraduate Excellence in Service Award**
+
 Cornell University Diversity Programs in Engineering
 
-Animal Health Hackathon, 9th Place (Team TransFur)
+**Animal Health Hackathon, 9th Place (Team TransFur)**
+
 Entrepreneurship at Cornell, Cornell University College of Veterinary Medicine
 
-National Residence Hall Honorary Student of the Year
+**National Residence Hall Honorary Student of the Year**
+
 National Residence Hall Honorary, Cornell University Chapter
 
-National Residence Hall Honorary Student of the Month
+**National Residence Hall Honorary Student of the Month**
+
 National Residence Hall Honorary, Cornell University Chapter
