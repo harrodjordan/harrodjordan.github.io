@@ -5,7 +5,7 @@ title: Paper of the Week for May 30th, 2018
 
 The paper can be found here: [Extraordinary plasticity of an inorganic semiconductor in darkness](http://science.sciencemag.org/content/360/6390/772) 
 
-Disclaimer: I am far from a materials scientist. In fact, I’m probably closer to a layperson when it comes to inorganic materials and semiconductors. Comments and corrections are welcome - I’m always looking to learn! 
+Disclaimer: I am far from a materials scientist. In fact, I’m probably closer to a layperson when it comes to inorganic materials and semiconductors. Comments and corrections are welcome. I’m always looking to learn! 
 
 Welcome to Paper of the Week! Every week, I’m going to pick a paper that caught my eye (usually from Twitter if I’m being honest) and tell you about it! 
 
