@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion: Artificial Intelligence Needs Citizen Science
+title: Opinion - Artificial Intelligence Needs Citizen Science
 ---
 
 Are you interested in doing science alongside academic and industry researchers?
