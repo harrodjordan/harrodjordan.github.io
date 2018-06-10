@@ -4,12 +4,28 @@
  <title>Jordan Harrod</title>
  <link href="http://harrodjordan.github.io/atom.xml" rel="self"/>
  <link href="http://harrodjordan.github.io/"/>
- <updated>2018-06-10T16:47:01-04:00</updated>
+ <updated>2018-06-10T17:22:58-04:00</updated>
  <id>http://harrodjordan.github.io</id>
  <author>
    <name>Jordan Harrod</name>
  </author>
  
+ 
+   
+   <entry>
+     <title>Website Update!</title>
+     <link href="http://harrodjordan.github.io/posts/WebsiteUpdate"/>
+     <updated>2018-06-10T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/WebsiteUpdate</id>
+     <content type="html">&lt;p&gt;&lt;strong&gt;Welcome to my new website theme!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was in the mood for a different layout from the one that I had before - something a little prettier. This is definitley closer to what I want, 
+but I’ll still be making some edits over the next couple days to the home page so that it isn’t just a list of posts.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for project updates and this week’s Paper of the Week!&lt;/p&gt;
+</content>
+   </entry>
+   
  
    
    <entry>
