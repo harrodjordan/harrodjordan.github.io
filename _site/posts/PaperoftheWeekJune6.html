@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>
+    
+      Paper of the Week - June 6th &ndash;
+    
+    Jordan Harrod
+  </title>
+
+  <meta name="author" content="Jordan Harrod" />
+  <meta name="description" content="Newly outspoken about science communication. Longtime doer of random projects." />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
+
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+  <link rel="stylesheet" href="http://harrodjordan.github.io/css/base.css" type="text/css" media="screen, projection" />
+  <link rel="stylesheet" href="http://harrodjordan.github.io/css/pygments.css" type="text/css" />
+  <link media="only screen and (max-device-width: 480px)" href="/css/mobile.css" type="text/css" rel="stylesheet" />
+  <link media="only screen and (device-width: 768px)" href="/css/mobile.css" type="text/css" rel="stylesheet" />
+  <link href='//fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+  <script type="text/javascript" src="/js/application.js"></script>
+</head>
+
+<body>
+  <section class="sidebar">
+  <a href="/" aria-label="Avatar">
+    <img src="?s=150" height="75" width="75" class="avatar" />
+  </a>
+
+  <section class="name">
+    <a href="/">
+      <span id="fname">Jordan</span>
+      <span id="lname">Harrod</span>
+    </a>
+  </section>
+
+  <section class="meta">
+    <a href="" target="_blank" title="Follow me on GitHub" aria-label="Follow me on GitHub"><i class="fa fa-github"></i></a>
+    <a href="https://twitter.com/jordanbharrod" target="_blank" title="Follow me on Twitter" aria-label="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
+    <a href="/atom.xml" title="Atom RSS feed" aria-label="Atom RSS feed"><i class="fa fa-rss"></i></a>
+  </section>
+
+  <section class="sections">
+    <ul>
+      <li><a href="/about.html">about</a></li>
+      <li><a href="/">posts</a></li>
+    </ul>
+  </section>
+</section>
+
+  <section class="content">
+  <h1>
+    <a href="/posts/PaperoftheWeekJune6">Paper of the Week - June 6th</a>
+  </h1>
+
+  <section class="byline">
+    June  6, 2018
+  </section>
+
+  <p>This week’s paper can be found here: <a href="https://www.nature.com/articles/s41551-018-0233-y">A high-impedance detector-array glove for magnetic resonance imaging of the hand</a></p>
+
+<p>Note: This paper is behind a paywall on the Nature Biomedical Engineering website. Unfortunately, this is all too common for scientific literature, making it difficult for non-scientists (or even scientists who are not from 
+the same field) to access current research. If you do have access through your institution, I’d encourage you to check it out! If you don’t, I’d encourage you to join the discussion over open access publications that the academic community 
+is currently having. There is also an <a href="https://arxiv.org/pdf/1709.03416.pdf">earlier paper</a> from this lab on a similar topic.</p>
+
+<p><strong>Welcome back to Paper of the Week!</strong></p>
+
+<p>We are two for two on papers that I found via Twitter! I’m not sure if that is a good thing, but I can tell you that this is a really cool paper
+and I am really excited to write about it.</p>
+
+<p>Note #2: Have a cool paper that you’d like to see me talk about? Thought this paper was cool and want to talk about it? Have questions about 
+STEM, undergrad, grad (haven’t started yet so no promises there), or anything else? Tweet it to me -&gt; <a href="https://twitter.com/jordanbharrod">@jordanbharrod</a></p>
+
+<p>This week’s paper is titled “A high-impedence detector-array glove for magnetic resonance imaging of the hand” and it comes from New York University’s School of Medicine.</p>
+
+<p>Why is this paper so cool? Well, for anyone who has ever had an MRI, we know that they are rather large and unbecoming machines that force our bodies to 
+bend to their will (Yes, it’s not that bad, but still). During my undergrad, I volunteered for a bunch of fMRI studies that required me to sit in MRIs for a couple hours every week (it was worth it $$$), so 
+I’ve been in enough different MRI machines to know that, in most clinical cases, there are two rules:</p>
+
+<ol>
+  <li>You can either have high spatial resolution (really detailed images) or high temporal resolution (a lot of images in a short period of time), but 
+not both.</li>
+  <li>Don’t move.</li>
+</ol>
+
+<p>The second rule is the one that really gets to us - the people getting the MRI - because what if you have an itch? Or you have to sneeze? 
+Hopefully, you have the self-control to restrain yourself, because otherwise, you might have to retake that MRI.</p>
+
+<p>Why is that the case? Well, it has to do with the way that MRI images are taken and reconstructed. If you’re interested in an in-depth review, 
+check out <a href="http://mriquestions.com/index.html">this website</a>, which I found to be really useful when I was taking the medical imaging class that 
+I would later go on to TA. In short, the raw MRI data contains information about where that each data point should be in the recontructed image, and how bright that data point should be. 
+When you move, the information about where that data point should be is changed, and the reconstructed image does not accurately represent your body.</p>
+
+<p>This second rule is inconvenient for another reason - MRI is typically used to image tissues (as opposed to bone), and could be used to monitor 
+how tissues move after an injury, which currently can’t be done. This has applications in areas like sports medicine, where muscle injuries are common 
+but can be hard to diagnose.</p>
+
+<p>But we’re in luck! This detector array glove has the potential to erase that second rule by allowing doctors to image a moving hand during an MRI without the reconstruction 
+problems that we would normally have. The glove uses high-impedence coils (MRIs typically use low impedence) that are attached to your standard glove, which you would 
+then wear into the MRI machine for imaging.</p>
+
+<p>Why high impedence over low impedence? Let’s go back to how MRI images are taken. When you lay down in an MRI for a scan, the machine uses extremely strong magents to apply 
+a magnetic field to all of the protons in your body, aligning them. Then, another field is applied, causing protons in different tissues to 
+move away from this alignment to varying degrees. The MRI machine’s detector records the energy each proton releases as they realign with the original magnetic field. The detector is 
+typically made up of those low impedence coils.</p>
+
+<p>Impendence is a measure of how much resistance to current flow something exhibits, so low impedence 
+coils allow a lot of current to flow. Unfortunately, that current can interfere with the other coils in the MRI, which messes up the resultant image, so the coils can only be arranged 
+in specific designs to prevent that interferance. On the other hand, this glove uses high impedence coils, which prevent current flow, and therefore prevent that interference between coils, 
+allowing you to move your hand in the glove without ruining the image.</p>
+
+<p>Your next question might be: Why does high impedence seem to work better for this application than low impedence? Aaaand that’s where my expertise runs out. 
+Based on the paper, it seems like the appeal of low impedence coils was energy efficiency - you can use less energy to record the signal for the image. High impedence coils 
+might require more energy, at which point the cost of energy used might not be worth it (or may be unsafe).</p>
+
+<p>In either case, I thought this paper was very cool, and am looking forward to further developments in the field of MRI that might expand applications towards 
+high resolution images of moving patients for sports medicine!</p>
+
+
+  <!-- TODO: bio here -->
+  <section class="meta">
+    <h3>Discussion, links, and tweets</h3>
+    <section class="copy">
+      <a href="https://twitter.com/jordanbharrod" target="_blank">
+        <img src="?s=142" height="50" width="50" />
+      </a>
+
+      <p>
+        I'm a graduate student at Harvard-MIT HST. <a href="https://twitter.com/jordanbharrod" target="_blank">Follow me on Twitter</a>;
+        to see what I'm up to today, and tweet at me if you want to chat! 
+      </p>
+
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="jordanbharrod">Tweet</a>
+      <a href="http://twitter.com/jordanbharrod" class="twitter-follow-button" data-show-count="false">Follow @jordanbharrod</a>
+      <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+    </section>
+  </section>
+</section>
+
+</body>
+
+</html>

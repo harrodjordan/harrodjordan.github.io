@@ -1,43 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Zach Holman</title>
- <link href="https://zachholman.com/left/atom.xml" rel="self"/>
- <link href="https://zachholman.com/left/"/>
- <updated>2018-06-10T15:54:18-04:00</updated>
- <id>https://zachholman.com/left</id>
+ <title>Jordan Harrod</title>
+ <link href="http://harrodjordan.github.io/atom.xml" rel="self"/>
+ <link href="http://harrodjordan.github.io/"/>
+ <updated>2018-06-10T16:46:12-04:00</updated>
+ <id>http://harrodjordan.github.io</id>
  <author>
-   <name>Zach Holman</name>
+   <name>Jordan Harrod</name>
  </author>
  
  
    
+   <entry>
+     <title>Call to Action - March for Science Youth Advocacy Summit!</title>
+     <link href="http://harrodjordan.github.io/posts/ScienceYouthSummit"/>
+     <updated>2018-06-07T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/ScienceYouthSummit</id>
+     <content type="html">&lt;p&gt;This blog is still somewhat new, but I thought it would be a good place to put out a call to action to my friends and followers!&lt;/p&gt;
+
+&lt;p&gt;I’m working with the March for Science to organize the &lt;a href=&quot;http://www.marchforscience.com/studentsummit&quot;&gt;Youth Advocacy Summit&lt;/a&gt;, which
+will be July 6-8 in Chicago! We’re nailing down session hosts as I type, but we are still looking for people to lead sessions or sit on panels 
+on the following topics, so if you or someone you know is interested in hosting a session or sitting on a panel and lives in the Chicago area, please send me an 
+email at jordan.b.harrod@gmail.com! The topics are listed below.&lt;/p&gt;
+
+&lt;p&gt;The Summit is free for all attending students, so all of our funding is currently going to cover room reservations, equipment rentals, 
+and other on-site costs associated with hosting the summit. Unfortunately, this means that we cannot compensate or reimburse session hosts. 
+Because of this, those not from the Chicago area are welcome to host sessions as well, but should know that we cannot 
+cover their expenses. Sorry!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology Policy&lt;/strong&gt; - This will be a lecture that covers current topics in technology policy that students should be aware of, followed by a 
+panel Q&amp;amp;A where students can ask questions about the topics covered. I am looking to cover artificial intelligence, data sharing, net neutrality, 
+and other related topics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Health Policy&lt;/strong&gt; - This will be a lecture that covers current topics in health policy that students should be aware of, followed by a 
+panel Q&amp;amp;A where students can ask questions about the topics covered. Anyone from public health policy-related fields is welcome - the topic for this 
+panel is less defined given how broad the field is - although I’d definitely like to get some Medicare/Medicaid people.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Science in the Media&lt;/strong&gt; - This session is pretty open-ended. I think it would be cool to have science journalists come in to talk about their 
+experiences in a Q&amp;amp;A, or discuss the different manifestations of science in media, but I’m open to other ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Science and The Federal Budget&lt;/strong&gt;  - This session will give students an overview of how science fits into the federal budget, and how they can 
+advocate for increased spending at different budgetary levels. Ideally, I’d like for this to be an interactive session with some budget allocation 
+exercise for students to do in groups.&lt;/p&gt;
+
+&lt;p&gt;Thank you again for reading this and spreading the word!&lt;/p&gt;
+</content>
+   </entry>
+   
  
    
    <entry>
-     <title>Left</title>
-     <link href="https://zachholman.com/left/posts/left"/>
-     <updated>2012-12-12T00:00:00-05:00</updated>
-     <id>https://zachholman.com/left/posts/left</id>
-     <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+     <title>Paper of the Week - June 6th</title>
+     <link href="http://harrodjordan.github.io/posts/PaperoftheWeekJune6"/>
+     <updated>2018-06-06T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/PaperoftheWeekJune6</id>
+     <content type="html">&lt;p&gt;This week’s paper can be found here: &lt;a href=&quot;https://www.nature.com/articles/s41551-018-0233-y&quot;&gt;A high-impedance detector-array glove for magnetic resonance imaging of the hand&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
-extracted from &lt;a href=&quot;http://zachholman.com&quot;&gt;zachholman.com&lt;/a&gt;, which means it was battle-hardened from
-years of posting serious blog posts about emoji and swear words.&lt;/p&gt;
+&lt;p&gt;Note: This paper is behind a paywall on the Nature Biomedical Engineering website. Unfortunately, this is all too common for scientific literature, making it difficult for non-scientists (or even scientists who are not from 
+the same field) to access current research. If you do have access through your institution, I’d encourage you to check it out! If you don’t, I’d encourage you to join the discussion over open access publications that the academic community 
+is currently having. There is also an &lt;a href=&quot;https://arxiv.org/pdf/1709.03416.pdf&quot;&gt;earlier paper&lt;/a&gt; from this lab on a similar topic.&lt;/p&gt;
 
-&lt;p&gt;You’re actually reading an example post right now. See how cool it is? Oh, be
-quiet, you’re making me blush.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Welcome back to Paper of the Week!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;We are two for two on papers that I found via Twitter! I’m not sure if that is a good thing, but I can tell you that this is a really cool paper
+and I am really excited to write about it.&lt;/p&gt;
 
-&lt;p&gt;You’ll want to &lt;a href=&quot;https://github.com/holman/left#readme&quot;&gt;get the code&lt;/a&gt; and read the README to learn how to
-install and set up Left for your own purposes.&lt;/p&gt;
+&lt;p&gt;Note #2: Have a cool paper that you’d like to see me talk about? Thought this paper was cool and want to talk about it? Have questions about 
+STEM, undergrad, grad (haven’t started yet so no promises there), or anything else? Tweet it to me -&amp;gt; &lt;a href=&quot;https://twitter.com/jordanbharrod&quot;&gt;@jordanbharrod&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;If you have any questions, follow and ping me on Twitter- I’m
-&lt;a href=&quot;https://twitter.com/holman&quot;&gt;@holman&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This week’s paper is titled “A high-impedence detector-array glove for magnetic resonance imaging of the hand” and it comes from New York University’s School of Medicine.&lt;/p&gt;
+
+&lt;p&gt;Why is this paper so cool? Well, for anyone who has ever had an MRI, we know that they are rather large and unbecoming machines that force our bodies to 
+bend to their will (Yes, it’s not that bad, but still). During my undergrad, I volunteered for a bunch of fMRI studies that required me to sit in MRIs for a couple hours every week (it was worth it $$$), so 
+I’ve been in enough different MRI machines to know that, in most clinical cases, there are two rules:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can either have high spatial resolution (really detailed images) or high temporal resolution (a lot of images in a short period of time), but 
+not both.&lt;/li&gt;
+  &lt;li&gt;Don’t move.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The second rule is the one that really gets to us - the people getting the MRI - because what if you have an itch? Or you have to sneeze? 
+Hopefully, you have the self-control to restrain yourself, because otherwise, you might have to retake that MRI.&lt;/p&gt;
+
+&lt;p&gt;Why is that the case? Well, it has to do with the way that MRI images are taken and reconstructed. If you’re interested in an in-depth review, 
+check out &lt;a href=&quot;http://mriquestions.com/index.html&quot;&gt;this website&lt;/a&gt;, which I found to be really useful when I was taking the medical imaging class that 
+I would later go on to TA. In short, the raw MRI data contains information about where that each data point should be in the recontructed image, and how bright that data point should be. 
+When you move, the information about where that data point should be is changed, and the reconstructed image does not accurately represent your body.&lt;/p&gt;
+
+&lt;p&gt;This second rule is inconvenient for another reason - MRI is typically used to image tissues (as opposed to bone), and could be used to monitor 
+how tissues move after an injury, which currently can’t be done. This has applications in areas like sports medicine, where muscle injuries are common 
+but can be hard to diagnose.&lt;/p&gt;
+
+&lt;p&gt;But we’re in luck! This detector array glove has the potential to erase that second rule by allowing doctors to image a moving hand during an MRI without the reconstruction 
+problems that we would normally have. The glove uses high-impedence coils (MRIs typically use low impedence) that are attached to your standard glove, which you would 
+then wear into the MRI machine for imaging.&lt;/p&gt;
+
+&lt;p&gt;Why high impedence over low impedence? Let’s go back to how MRI images are taken. When you lay down in an MRI for a scan, the machine uses extremely strong magents to apply 
+a magnetic field to all of the protons in your body, aligning them. Then, another field is applied, causing protons in different tissues to 
+move away from this alignment to varying degrees. The MRI machine’s detector records the energy each proton releases as they realign with the original magnetic field. The detector is 
+typically made up of those low impedence coils.&lt;/p&gt;
+
+&lt;p&gt;Impendence is a measure of how much resistance to current flow something exhibits, so low impedence 
+coils allow a lot of current to flow. Unfortunately, that current can interfere with the other coils in the MRI, which messes up the resultant image, so the coils can only be arranged 
+in specific designs to prevent that interferance. On the other hand, this glove uses high impedence coils, which prevent current flow, and therefore prevent that interference between coils, 
+allowing you to move your hand in the glove without ruining the image.&lt;/p&gt;
+
+&lt;p&gt;Your next question might be: Why does high impedence seem to work better for this application than low impedence? Aaaand that’s where my expertise runs out. 
+Based on the paper, it seems like the appeal of low impedence coils was energy efficiency - you can use less energy to record the signal for the image. High impedence coils 
+might require more energy, at which point the cost of energy used might not be worth it (or may be unsafe).&lt;/p&gt;
+
+&lt;p&gt;In either case, I thought this paper was very cool, and am looking forward to further developments in the field of MRI that might expand applications towards 
+high resolution images of moving patients for sports medicine!&lt;/p&gt;
+</content>
+   </entry>
+   
+ 
+   
+   <entry>
+     <title>Opinion - Artificial Intelligence Needs Citizen Science</title>
+     <link href="http://harrodjordan.github.io/posts/Opinion-AI-Needs-CitiSci"/>
+     <updated>2018-06-05T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/Opinion-AI-Needs-CitiSci</id>
+     <content type="html">&lt;p&gt;Are you interested in doing science alongside academic and industry researchers?&lt;/p&gt;
+
+&lt;p&gt;No, you don’t need to have a background in science. All you need to participate is to enjoy playing games. &lt;/p&gt;
+
+&lt;p&gt;Chances are, you would be interested. In fact, &lt;a href=&quot;http://www.pewinternet.org/2015/12/11/public-interest-in-science-health-and-other-topics/&quot;&gt;roughly 60% of Americans expressed interest in science and technology in 2015&lt;/a&gt;. For reference, 44% of Americans expressed interest in sports, so more Americans want to know about new and developing technology than want to know who won the last Superbowl (No, that’s probably not true, but you get the point).&lt;/p&gt;
+
+&lt;p&gt;Citizen science allows anyone to become involved in scientific research. In fact, it’s been around for a while, &lt;a href=&quot;https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/110278&quot;&gt;dating back to the 17th century&lt;/a&gt;, and has gained steam over the past several years as scientists learn to leverage the Internet and apps to reach wider audiences. Typically, citizen science allows the average person to help researchers collect and analyze data that they may not have access to otherwise. As exciting as data analysis likely sounds (Hint: It doesn’t), recent iterations of citizen science have focused on adapting data analysis techniques to online games. People have discovered protein structures by playing &lt;a href=&quot;http://www.bakerlab.org/wp-content/uploads/2015/12/Khoury_Proteins_2014.pdf&quot;&gt;FoldIt&lt;/a&gt;, have identified new genes using &lt;a href=&quot;https://phylo.cs.mcgill.ca&quot;&gt;Phylo&lt;/a&gt;, and have sped up Alzheimer’s research on &lt;a href=&quot;https://stallcatchers.com/main&quot;&gt;Stall Catchers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The applications of citizen science are endless, especially in areas of research that rely on datasets that accurately represent groups of people, such as artificial intelligence. &lt;/p&gt;
+
+&lt;p&gt;Oh, wait. &lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence doesn’t use citizen science? &lt;/p&gt;
+
+&lt;p&gt;Well, no, not exactly. &lt;/p&gt;
+
+&lt;p&gt;Currently, there are hundreds of different types of datasets available to AI researchers who are looking to train new algorithms. The data is often collected by research groups or industry companies and made public in an effort to support the wider AI community. However, recent headlines have detailed the failures and biases of AI that has been trained on those datasets: &lt;a href=&quot;https://www.nytimes.com/2018/02/09/technology/facial-recognition-race-artificial-intelligence.html&quot;&gt;from not recognizing images of black women&lt;/a&gt; (or identifying black people as &lt;a href=&quot;https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/&quot;&gt;gorillas&lt;/a&gt;) to being more likely to classify &lt;a href=&quot;https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm&quot;&gt;black people&lt;/a&gt; or &lt;a href=&quot;https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.1740-9713.2016.00960.x&quot;&gt;low-income geographic regions&lt;/a&gt; as at high risk for crime. &lt;/p&gt;
+
+&lt;p&gt;Some of these failures rely on access to data that the average person could not or should not provide, such as recidivism rates or HIPAA-protected health data. Access to that kind of data would require restructuring of data privacy regulations on a federal level, which should be advocated for both to provide better data to researchers and to protect the privacy of the data that is currently in use, but will not happen overnight. &lt;/p&gt;
+
+&lt;p&gt;However, there is no shortage of selfies on the phones and social media profiles of Americans, regardless of demographics. &lt;/p&gt;
+
+&lt;p&gt;To be sure, those participating in citizen science should be able to do so with the knowledge that their data will be protected and can only be used with their approval. &lt;a href=&quot;https://www.forbes.com/sites/robertpearl/2018/04/10/blockchain-bitcoin-ehr/#3d725f7979e7&quot;&gt;Blockchain&lt;/a&gt; has been proposed as a potential solution to this, as has updated and more clearly defined privacy policies for citizen science research that handles personal data, such as the new &lt;a href=&quot;https://www.cnbc.com/2018/03/30/gdpr-everything-you-need-to-know.html&quot;&gt;GDPR&lt;/a&gt; regulations. &lt;/p&gt;
+
+&lt;p&gt;Researchers need to engage citizens in the scientific process, both to improve technologies that will eventually be incorporated into their daily lives, and to maintain public support of science and technology during this time of increased public doubt in the scientific process. Create apps that allow people to see how their pictures have improved the accuracy of a facial recognition algorithm. Design games that identify biases in day-to-day decisions that researchers can account for in their research. Educate citizens on how they can become involved in science, and why they should, so that they can go back and tell their policymakers to support the research that might save and improve their lives. &lt;/p&gt;
+
+&lt;p&gt;After all, AI is the future, and the future is now. Don’t you want it to treat you well? &lt;/p&gt;
+</content>
+   </entry>
+   
+ 
+   
+   <entry>
+     <title>Paper of the Week for May 30th, 2018</title>
+     <link href="http://harrodjordan.github.io/posts/Paper-of-the-Week-May3018"/>
+     <updated>2018-05-30T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/Paper-of-the-Week-May3018</id>
+     <content type="html">&lt;p&gt;The paper can be found here: &lt;a href=&quot;http://science.sciencemag.org/content/360/6390/772&quot;&gt;Extraordinary plasticity of an inorganic semiconductor in darkness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*Disclaimer: I am far from a materials scientist. In fact, I’m probably closer to a layperson when it comes to inorganic materials and semiconductors. Comments and corrections are welcome. I’m always looking to learn!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Welcome to Paper of the Week!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Every week, I’m going to pick a paper that caught my eye (usually from Twitter if I’m being honest) and tell you about it!&lt;/p&gt;
+
+&lt;p&gt;This week’s paper is titled “Extraordinary plasticity of an inorganic semiconductor in darkness,” and it comes from a lab in the Department of Materials Physics, Nagoya University in Japan.  This is definitely the first time I’ve ever seen the term “extraordinary” used in the title of a journal article, so this paper would have been a serious contender for that alone.&lt;/p&gt;
+
+&lt;p&gt;Let’s start from the basics. As you may have already noticed, some materials conduct electricity and some do not. Whether or not a particular material conducts electricity depends on the quantity of free electrons and holes (locations in the material with no electrons) in the material. Glass, which is an insulator, does not have free electrons, and therefore does not conduct electricity.&lt;/p&gt;
+
+&lt;p&gt;Thermal energy, or heat, can change the number of free electrons and holes present in a material, as can light irradiation. Increasing the number of free electrons and holes decreases the resistance of the material. If an electrical field is applied to this material (for example, by creating a voltage difference across the material), the holes and free electrons will become excited, and the material will become electrically conductive relative to the number of free electrons and holes. Semiconductors are these such materials, where some of the electrons are bound in covalent bonds, and some move freely within the material.&lt;/p&gt;
+
+&lt;p&gt;This is where darkness and plasticity come in. The number of free electrons and holes present in a material depends somewhat on the material’s crystalline structure, and that structure changes when stress or strain are induced into that material. Therefore, the properties of the crystalline structure of the material, including plasticity, can be altered with applied energy, in the form of thermal energy or light irradiation. In theory, you could have a material that becomes less conductive when bent, only for that reduction to be counteracted by light irradiation of the material.&lt;/p&gt;
+
+&lt;p&gt;But what about the absence of light? This paper found that a zinc sulfide crystal, when placed in total darkness, became significantly more plastic, or deformable. Crystals that were deformed under either LED or UV light reached roughly 2% strain before yielding, whereas crystals deformed in total darkness reached 45% strain. That’s a crazy amount of deformation for a crystal that could barely withstand stress without breaking in normal light!&lt;/p&gt;
+
+&lt;p&gt;We talked earlier about how light irradiation of a material could increase the number of free electrons and holes, so I would expect that while the total darkness might make the crystals more deformable, it would also reduce the energy of the free electrons and holes. Interestingly (to me, a person who does not work in this field), that’s not quite what happens. In the next section of the paper, which looks at the light-absorption characteristics of the material, the authors note that the optical band gap (or the amount of energy required for an electron to leave the covalent bond of the crystal structure and become free) decreases at 35% strain. While they did not show any data on conductivity tests between light-deformed and darkness-deformed crystal samples, I would think that this means that the conductance is similar between the two crystals, because of the reduction in the bandgap would allow previously free electrons to remain free. Alternatively, the conductance could decrease, but not as much as one would expect.&lt;/p&gt;
+
+&lt;p&gt;The paper goes on to discuss why this increased plasticity in darkness might occur, but in the interest of not misleading anyone, I won’t cover that since I didn’t fully understand it myself.&lt;/p&gt;
+
+&lt;p&gt;Why should you care? Well, semiconductors like zinc sulfide power many of the electronics we use today, and in recent years, we’ve seen technology begin to shift towards flexible electronics that could more easily interface with the average person’s body. If darkness allows for semiconductors to become more flexible while maintaining their conductive properties (or if that flexibility allows for the acquisition of new measurements due to changes in resistance based on deformation), then we could see some interesting new technology come of discoveries like this.&lt;/p&gt;
 
 </content>
    </entry>
+   
+ 
+   
+   <entry>
+     <title>Welcome to my website!</title>
+     <link href="http://harrodjordan.github.io/posts/Hello-World"/>
+     <updated>2018-05-16T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/Hello-World</id>
+     <content type="html">&lt;h2 id=&quot;this-is-my-first-blog-post&quot;&gt;This is my first blog post!&lt;/h2&gt;
+
+&lt;p&gt;Of many, hopefully.&lt;/p&gt;
+
+&lt;p&gt;Stay up to date with my research, outreach, and projects by bookmarking this website!&lt;/p&gt;
+
+&lt;p&gt;You can also follow me on &lt;a href=&quot;https://twitter.com/jordanbharrod&quot;&gt;Twitter&lt;/a&gt; to get my real time opinions on anything from science to policy.&lt;/p&gt;
+</content>
+   </entry>
+   
+ 
+   
+ 
    
  
  
