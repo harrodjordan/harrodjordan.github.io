@@ -1,5 +1,7 @@
 ---
 layout: post
+category: posts
+draft: false
 title: Call to Action - March for Science Youth Advocacy Summit!
 ---
 
