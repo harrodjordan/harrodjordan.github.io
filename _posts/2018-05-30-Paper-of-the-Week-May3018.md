@@ -1,5 +1,6 @@
 ---
 layout: post
+category: posts
 title: Paper of the Week for May 30th, 2018
 ---
 
