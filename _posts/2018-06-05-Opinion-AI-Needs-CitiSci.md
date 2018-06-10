@@ -1,5 +1,7 @@
 ---
 layout: post
+category: posts
+draft: false
 title: Opinion - Artificial Intelligence Needs Citizen Science
 ---
 
