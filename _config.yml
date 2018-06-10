@@ -4,7 +4,10 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: https://zachholman.com/left
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: Jordan Harrod
+url: http://harrodjordan.github.io
+description: Newly outspoken about science communication. Longtime doer of random projects. 
+twitter: harrodjordan
+linkedin: harrodjordan
+email: jordan.b.harrod@gmail.com  
+google_analytics: UA-120508959-1
