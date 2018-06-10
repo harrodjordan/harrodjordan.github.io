@@ -2,6 +2,7 @@
 layout: post
 category: posts
 title: Paper of the Week for May 30th, 2018
+draft: false
 ---
 
 The paper can be found here: [Extraordinary plasticity of an inorganic semiconductor in darkness](http://science.sciencemag.org/content/360/6390/772) 
