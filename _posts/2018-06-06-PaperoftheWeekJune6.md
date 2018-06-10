@@ -1,5 +1,7 @@
 ---
 layout: post
+category: posts
+draft: false
 title: Paper of the Week - June 6th
 ---
 
