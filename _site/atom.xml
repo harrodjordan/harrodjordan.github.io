@@ -4,12 +4,41 @@
  <title>Jordan Harrod</title>
  <link href="http://harrodjordan.github.io/atom.xml" rel="self"/>
  <link href="http://harrodjordan.github.io/"/>
- <updated>2018-06-10T18:17:08-04:00</updated>
+ <updated>2018-06-11T20:37:01-04:00</updated>
  <id>http://harrodjordan.github.io</id>
  <author>
    <name>Jordan Harrod</name>
  </author>
  
+ 
+   
+   <entry>
+     <title>Making a Chrissy Teigen Bot (Summer Project 1)</title>
+     <link href="http://harrodjordan.github.io/posts/ItsChrissySummer"/>
+     <updated>2018-06-11T00:00:00-04:00</updated>
+     <id>http://harrodjordan.github.io/posts/ItsChrissySummer</id>
+     <content type="html">&lt;p&gt;In addition to organizing the March for Science Student Summit (shameless plug - more information &lt;a href=&quot;https://harrodjordan.github.io/posts/ScienceYouthSummit&quot;&gt;here&lt;/a&gt;), I am trying my hand at a new machine learning project! I’ve never worked with natural language processing before, and wanted to learn about data mining, so I decided to make a program that creates tweets based on training data from a particular user.&lt;/p&gt;
+
+&lt;p&gt;Initially, I wanted to use myself, but I needed a large enough dataset to even have a shot at generative realistic tweets. I also needed a user that was not likely to become… problematic (a la Microsoft’s &lt;a href=&quot;https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist&quot;&gt;super racist twitter bot&lt;/a&gt;). After a thorough search  (read: I opened Twitter and scrolled twice), I found the perfect person - Chrissy Teigen!&lt;/p&gt;
+
+&lt;p&gt;So far, I’ve downloaded the tweets using the Tweepy API and done some light pre-processing to remove unncesessary metadata. I’m planning to pick a model over the next couple days, and will update this post as things happen!&lt;/p&gt;
+
+&lt;p&gt;You can follow my progress on GitHub here:  https://github.com/harrodjordan/ItsChrissy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learned to use Tweepy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Downloaded roughly 3000 tweets&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+   </entry>
+   
  
    
    <entry>
