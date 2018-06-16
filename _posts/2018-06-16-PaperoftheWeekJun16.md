@@ -1,6 +1,6 @@
 ---
 layout: post
-category: projects
+category: posts
 draft: false
 title:  Paper of the Week for - June 16th
 ---
