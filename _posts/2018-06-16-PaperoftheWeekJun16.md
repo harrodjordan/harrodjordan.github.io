@@ -2,7 +2,7 @@
 layout: post
 category: posts
 draft: false
-title:  Paper of the Week for - June 16th
+title:  Paper of the Week - June 16th
 ---
 
 This week's paper can be found here: [Scientists’ Ethical Obligations and Social Responsibility for Nanotechnology Research](https://asu.pure.elsevier.com/en/publications/scientists-ethical-obligations-and-social-responsibility-for-nano-2)
