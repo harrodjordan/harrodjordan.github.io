@@ -5,23 +5,12 @@ title: "Home Page"
 <section class="content">
     <h1>{{ site.name }}</h1>
     
-    <p> Hi! I'm Jordan.</p>
+    <p> Hi! I'm Jordan. This website has moved to <a href="http://jordanharrod.com">jordanharrod.com.</a> , so if you're looking for my personal website, go there! </p>
+   
     
-     <img src="/apple-touch-icon.jpeg" alt="Me">
-    
-    <p> I'm an incoming PhD student at Harvard-MIT HST who's spending her summer working on an assortment of random projects. <a href="https://harrodjordan.github.io/posts/CV">My CV can be found here.</a> Check out <a href="https://harrodjordan.github.io/posts/Projects">my projects</a> if you want to know what I'm up to, and check out my posts below if you want to hear my thoughts! </p>
+    <p> If you're looking for Humans of AI/ML, <a href="http://harrodjordan.github.io/humansofml">click here!</a> </p>
     
 </section>
 
 
-<section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-</section>
+
